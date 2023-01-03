@@ -1,0 +1,3 @@
+12346,Gaza,Mohanad,50.0,50,0,0
+
+12347,Palestine,Mohanad-Ali-Ibrahim,70.0,80,0,0
